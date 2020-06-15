@@ -1,2 +1,2 @@
 # Deep_Learning
-I will be sharing the notebooks as i learn new concepts.
+I will be sharing the notebooks as I learn new concepts in Deep Learning.
